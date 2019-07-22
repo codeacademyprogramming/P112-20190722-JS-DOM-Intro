@@ -1,0 +1,6 @@
+.table thead tr th {
+    cursor: pointer;
+}
+.table thead tr th:first-child {
+    cursor: text;
+}
